@@ -57,7 +57,7 @@
   <img src="https://github-readme-stats.shion.dev/api?username=Uttam-Kothari&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Uttam's GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Uttam-Kothari"&theme=dark />
+  <img src="https://streak-stats.demolab.com/?user=Uttam-Kothari&theme=dark&background=0D1117&border=30363D&stroke=30363D&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Uttam-Kothari&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
