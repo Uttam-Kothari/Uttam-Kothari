@@ -69,7 +69,7 @@
 
 <p align="center">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Uttam-Kothari&bg_color=0d1117&color=58a6ff&line=8b5cf6&point=f472b6&area=true&hide_border=false&custom_title=uttam%20kothari%27s%20Coding%20Universe"
+      src=""
       alt="Live GitHub activity graph for Uttam-Kothari"
     />
 </p>
