@@ -81,7 +81,8 @@
 
 <p align="center">
 <p align="center">
-  <img width="100%" src="./github-user-contribution.svg" alt="Dynamic Arcade Game Contribution Chart" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Uttam-Kothari&bg_color=0D1117&color=FFFFFF&line=00C853&point=00C853&area=true&hide_border=true)" />
+  
 </p>
 </p>
 
