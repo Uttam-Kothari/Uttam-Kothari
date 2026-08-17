@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Uttam Kothari (UK)</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=45F733&background=FF000000&width=435&lines=Hey+there+i+am++CSE+perusing+student+%40+Darshan+Uni+;just+working+on+projects+with+friends+like+me"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=45F733&background=FF000000&width=435&lines=Hey+there+i+am++CSE+perusing+student+@+Darshan+University+;just+working+on+projects+with+friends+like+me"/>
 </p>
 
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
@@ -33,13 +33,13 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </p>
 
 ### 🌐 Frontend
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
@@ -49,7 +49,7 @@
 </p>
 
 ### ⚙️ Backend & Database
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
