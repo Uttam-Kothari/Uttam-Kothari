@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Uttam Kothari (UK)</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=45F733&background=FF000000&width=435&lines=Hey+there+i+am++CSE+perusing+student+@+Darshan+University+;just+working+on+projects+with+friends+like+me"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=45F733&background=FF000000&width=435&lines=Hey+there+i+am++CSE+perusing+student+Darshan+University+;just+working+on+projects+with+friends+like+me"/>
 </p>
 
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
@@ -55,13 +55,13 @@
 </p>
 
 ### 🛠️ Tools & Version Control
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 ### 🎨 Design
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
   <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" alt="Adobe Lightroom" />
 </p>
