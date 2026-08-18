@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Uttam Kothari (UK)</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=45F733&background=FF000000&width=435&lines=Hey+there+i+am++CSE+perusing+student+Darshan+University+;just+working+on+projects+with+friends+like+me"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=45F733&background=FF000000&width=435&lines=Hey+there+i+am++CSE+perusing+student+Darshan+University+;just+working+on+projects+with+friends+like+me"/>
 </p>
 
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
